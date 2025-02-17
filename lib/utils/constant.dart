@@ -1,0 +1,16 @@
+const String comments = "Comments";
+const String noCommentsAvailable = "No comments available";
+const String originalPost = "Original Posts";
+const String offlinePost = "Offline Posts";
+const String error = "Error";
+const String unknownState = "Unknown State";
+const String noPostSaved = "No posts saved";
+const String postDetails = "Post Details";
+const String saveForOfflineReading = "Save for Offline Reading";
+const String viewComments = "View Comments";
+const String baseURL = "https://jsonplaceholder.typicode.com";
+const String failedToLoadPostDetails = "Failed to load post details";
+const String failedToLoadComments = "Failed to load comments";
+const String failedToLoadPosts = "Failed to load posts";
+const String anUnknownErrorOccurred = "An unknown error occurred";
+const String noInternetConnection = "No internet connection";
